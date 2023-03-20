@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/wika/Documents/GitHub/FPS/StartingProject 5.1/Content/Assets/Characters/Arms/Arms_Animations/Arms_Aim_Down.uasset"
+			]
+		}
+	]
+}
